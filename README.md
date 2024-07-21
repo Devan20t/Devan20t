@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devan</h1>
-<img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/32/6c/4c/326c4c34c0ad6a5e33231f047d6a53b3.gif">
-<p width="100%"> <img src="https://komarev.com/ghpvc/?username=devan20t&label=Profile%20views&color=0e75b6&style=flat" alt="devan20t" width="100%" /> </p>
+<img width="100%" alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/32/6c/4c/326c4c34c0ad6a5e33231f047d6a53b3.gif">
+<p> <img src="https://komarev.com/ghpvc/?username=devan20t&label=Profile%20views&color=0e75b6&style=flat" alt="devan20t" /> </p>
 
 <p align="left"> <a href="https://twitter.com/devan20t" target="blank"><img src="https://img.shields.io/twitter/follow/devan20t?logo=twitter&style=for-the-badge" alt="devan20t" /></a> </p>
 
